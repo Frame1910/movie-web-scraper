@@ -1,0 +1,190 @@
+[
+    {
+        "title": "47 Meters Down: Uncaged (M)90 mins",
+        "sessions": {
+            "days": [
+                {
+                    "date": "Thu 31 Oct",
+                    "times": [
+                        "11:30am",
+                        "6:30pm",
+                        "9:00pm"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "Andre Rieu: 70 Years Young (CTC)150 mins",
+        "sessions": {}
+    },
+    {
+        "title": "Blinded By the Light (PG)117 mins",
+        "sessions": {
+            "days": [
+                {
+                    "date": "Thu 31 Oct",
+                    "times": [
+                        "12:55pm",
+                        "3:30pm",
+                        "6:00pm"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "Cats - Animated (PG)87 mins",
+        "sessions": {}
+    },
+    {
+        "title": "Charlie's Angels (M)",
+        "sessions": {}
+    },
+    {
+        "title": "Ferris Bueller's Day Off (PG)102 mins",
+        "sessions": {}
+    },
+    {
+        "title": "Hustlers (MA15+)110 mins",
+        "sessions": {
+            "days": [
+                {
+                    "date": "Thu 31 Oct",
+                    "times": [
+                        "8:30pm"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "INXS: Live Baby Live  (CTC)98 mins",
+        "sessions": {}
+    },
+    {
+        "title": "Joker (MA15+)122 mins",
+        "sessions": {
+            "days": [
+                {
+                    "date": "Thu 31 Oct",
+                    "times": [
+                        "10:15am",
+                        "1:00pm",
+                        "3:45pm",
+                        "6:30pm",
+                        "8:30pm",
+                        "8:30pm"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "Judy (M)118 mins",
+        "sessions": {
+            "days": [
+                {
+                    "date": "Thu 31 Oct",
+                    "times": [
+                        "10:30am",
+                        "1:00pm",
+                        "1:05pm",
+                        "3:45pm",
+                        "6:30pm"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "Maleficent: Mistress of Evil (PG)118 mins",
+        "sessions": {
+            "days": [
+                {
+                    "date": "Thu 31 Oct",
+                    "times": [
+                        "1:00pm",
+                        "3:30pm",
+                        "6:00pm"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "Pavarotti (CTC)114 mins",
+        "sessions": {
+            "days": [
+                {
+                    "date": "Thu 31 Oct",
+                    "times": [
+                        "10:30am"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "Ride Like a Girl  (PG)98 mins",
+        "sessions": {
+            "days": [
+                {
+                    "date": "Thu 31 Oct",
+                    "times": [
+                        "10:30am"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "Star Wars: The Rise of Skywalker (CTC)155 mins",
+        "sessions": {}
+    },
+    {
+        "title": "Terminator: Dark Fate (MA15+)128 mins",
+        "sessions": {
+            "days": [
+                {
+                    "date": "Thu 31 Oct",
+                    "times": [
+                        "10:15am",
+                        "11:30am",
+                        "11:30am",
+                        "1:15pm",
+                        "2:30pm",
+                        "2:30pm",
+                        "4:00pm",
+                        "4:15pm",
+                        "5:15pm",
+                        "5:30pm",
+                        "7:15pm",
+                        "7:15pm",
+                        "8:15pm",
+                        "9:15pm"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "The Warriors (R18+)91 mins",
+        "sessions": {}
+    },
+    {
+        "title": "Zombieland: Double Tap (MA15+)99 mins",
+        "sessions": {
+            "days": [
+                {
+                    "date": "Thu 31 Oct",
+                    "times": [
+                        "1:45pm",
+                        "4:00pm",
+                        "8:35pm"
+                    ]
+                }
+            ]
+        }
+    }
+]
